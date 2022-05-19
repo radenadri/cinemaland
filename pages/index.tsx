@@ -5,7 +5,7 @@ import Image from 'next/image'
 
 import MovieCard from '../components/MovieCard'
 
-const API_URL = 'http://www.omdbapi.com?apikey=5aeeac32'
+const API_URL = 'https://www.omdbapi.com?apikey=5aeeac32'
 
 const Home: NextPage = () => {
 
